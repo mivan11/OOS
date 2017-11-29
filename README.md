@@ -1,0 +1,2 @@
+# OOS
+Uključuje Linux jezgru
