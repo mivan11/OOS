@@ -1,4 +1,4 @@
-bits 32 ;za NASM u 32 mod
+bits 32 ;za NASM u 32 mod, Linux
 section .text ;spremanje
 
 global start 
